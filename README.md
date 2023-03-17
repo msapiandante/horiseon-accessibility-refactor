@@ -23,5 +23,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Tests
 Website URL https://msapiandante.github.io/horiseon-accessibility-refactor/
 
-Screenshot of website: 
+Screenshots of website: 
 ![image](https://user-images.githubusercontent.com/126308793/225785838-5b38e1b0-d7b6-41d7-ae64-2745388ca9c7.png)
+![image](https://user-images.githubusercontent.com/126308793/225788339-885bb454-bc80-475c-b0b1-96f46325a19f.png)
